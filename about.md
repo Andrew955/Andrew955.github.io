@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a graduate student majoring in public economics who is somehow interested in computer science and ready to explore more in mechine learning and so on.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[contact me](mailto:andrew955@qq.com)
