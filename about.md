@@ -6,6 +6,4 @@ permalink: /about/
 
 I am a graduate student majoring in public economics who is somehow interested in computer science and ready to explore more in mechine learning and so on.
 
-### Contact me
-
 [contact me](mailto:andrew955@qq.com)
